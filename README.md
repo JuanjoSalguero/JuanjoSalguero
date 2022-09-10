@@ -29,6 +29,8 @@
 
 [![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&theme=redical)](https://github.com/juanjosalguero/github-readme-activity-graph)
 
+.github/workflows/profile-3d.yml
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=radical" alt="juanjosalguero" /></p>
