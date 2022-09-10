@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Welcome to my profile ❗</h1>
 <h3 align="center">💻 Software developer from Spain.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif"
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjosalguero&label=Profile%20views&color=0e75b6&style=flat" alt="juanjosalguero" /> </p>
 
@@ -31,12 +31,14 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<h3 align="left">GitHub Status:</h3>
+
 [![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&theme=redical)](https://github.com/juanjosalguero/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=radical" alt="juanjosalguero" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=radical" alt="juanjosalguero"/></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=radical" alt="juanjosalguero" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=radical" alt="juanjosalguero"/></p>
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" >
