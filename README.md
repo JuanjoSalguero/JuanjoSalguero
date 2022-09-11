@@ -1,4 +1,4 @@
-<!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/41cf7095746151.5e9ecde696490.gif)](https://juanjosalguero.io)-->
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg)](https://juanjosalguero.io)
 
 <h1 align="center"><img alt="hand" width="40" src="https://uploads-ssl.webflow.com/60f0a1afc7be292413e48176/6143aa43202ad63a1d409343_hand-wave.gif"> Welcome to my profile <img alt="cat" width="35" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></h1>
 <h3 align="center">💻 Software developer from Spain.</h3>
