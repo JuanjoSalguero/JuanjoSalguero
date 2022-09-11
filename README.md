@@ -2,7 +2,7 @@
 
 <h1 align="center"><img alt="hand" width="40" src="https://uploads-ssl.webflow.com/60f0a1afc7be292413e48176/6143aa43202ad63a1d409343_hand-wave.gif"> Welcome to my profile <img alt="cat" width="35" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></h1>
 <h3 align="center">💻 Software developer from Spain.</h3>
-<img align="right" alt="Coding" width="500" src="https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjosalguero&label=Profile%20views&color=0e75b6&style=flat" alt="juanjosalguero" /> </p>
 
