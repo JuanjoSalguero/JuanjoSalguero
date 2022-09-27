@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)](https://juanjosalguero.io)
+[![MasterHead](https://i.imgur.com/b6tk4qd.jpg)](https://juanjosalguero.io)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my profile <img alt="cat" width="35" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></h1>
 
