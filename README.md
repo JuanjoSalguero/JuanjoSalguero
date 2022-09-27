@@ -1,7 +1,11 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)](https://juanjosalguero.io)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my profile <img alt="cat" width="35" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></h1>
-<h3 align="center">💻 Software developer from Spain.</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EB2C&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Software+developer" alt="Typing SVG" /></a>
+</p>
+
 <img align="right" alt="Coding" width="450" src="https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjosalguero&label=Profile%20views&color=0e75b6&style=flat" alt="juanjosalguero" /> </p>
@@ -33,12 +37,12 @@
 
 <h3 align="left">GitHub Status:</h3>
 
-[![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&theme=redical)](https://github.com/juanjosalguero/github-readme-activity-graph)
+[![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/juanjosalguero/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=monokai)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=radical" alt="juanjosalguero"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=monokai" alt="juanjosalguero"/></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=radical" alt="juanjosalguero"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=monokai" alt="juanjosalguero"/></p>
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" >
+<p align="center"><img alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" ></p>
