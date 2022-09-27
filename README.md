@@ -45,13 +45,13 @@
 
 ### 📊 Github Stats
 
-[![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/juanjosalguero/github-readme-activity-graph)
+[![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&theme=gotham)](https://github.com/juanjosalguero/github-readme-activity-graph)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=monokai" alt="juanjosalguero"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=blue-green" alt="juanjosalguero"/></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=monokai" alt="juanjosalguero"/>
-<img src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=monokai" alt="juanjosalguero"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=blue-green" alt="juanjosalguero"/>
+<img src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=blue-green" alt="juanjosalguero"/>
 </p>
 
 
