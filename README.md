@@ -54,7 +54,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=blue-green" alt="juanjosalguero"/>
 </p>
 
-# 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/JuanjoSalguero?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
 <p align="center"><img alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" ></p>
