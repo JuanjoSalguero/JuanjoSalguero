@@ -47,10 +47,12 @@
 
 [![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/juanjosalguero/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=monokai)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=monokai" alt="juanjosalguero"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=monokai" alt="juanjosalguero"/></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=monokai" alt="juanjosalguero"/>
+<img src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=monokai" alt="juanjosalguero"/>
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=monokai" alt="juanjosalguero"/></p>
 
 <p align="center"><img alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" ></p>
