@@ -19,9 +19,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/juanjosalgueroacevedo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juanjosalgueroacevedo/" height="30" width="40" /></a>
-<a href="https://instagram.com/juanjosalguero_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@juanjosalguero_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juanjosalgueroacevedo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 alt="LinkedIn"></a> 
+<a href="https://instagram.com/juanjosalguero_" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25 alt="Instagram"></a> 
 <a href="https://juanjosalguero.github.io/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3003/3003511.png" alt="https://juanjosalguero.github.io/" height="40" width="40" /></a>
 </p>
 
