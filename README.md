@@ -50,8 +50,8 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=blue-green" alt="juanjosalguero"/></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=blue-green" alt="juanjosalguero"/>
-<img src="https://github-readme-stats.vercel.app/api?username=juanjosalguero&show_icons=true&locale=en&theme=blue-green" alt="juanjosalguero"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=blue-green&langs_count=10&layout=compact" alt="juanjosalguero"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=JuanjoSalguero&cc=0E0D0D&tc=F4DD3A&ic=3AF461&bc=FAF6F6" alt="juanjosalguero"/>
 </p>
 
 <p align="center"><img alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" ></p>
