@@ -50,7 +50,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=blue-green" alt="juanjosalguero"/></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=blue-green&langs_count=10&layout=compact" alt="juanjosalguero"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=blue-green&langs_count=10" alt="juanjosalguero"/>
 <img src="https://github-stats-alpha.vercel.app/api?username=JuanjoSalguero&cc=0E0D0D&tc=F4DD3A&ic=3AF461&bc=FAF6F6" alt="juanjosalguero"/>
 </p>
 
