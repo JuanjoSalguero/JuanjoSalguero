@@ -53,13 +53,15 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=JuanjoSalguero&cc=0E0D0D&tc=F4DD3A&ic=3AF461&bc=FAF6F6" alt="juanjosalguero"/>
 </p>
 
+<br>
 
 ### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=JuanjoSalguero&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
 
+<br>
+
+<p align="center">
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=JuanjoSalguero&margin-w=10&row=1&theme=darkhub&no-bg=true"/>
+</p>
 <br>
 
 ---
