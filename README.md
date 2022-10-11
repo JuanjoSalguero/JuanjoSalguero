@@ -60,3 +60,10 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=JuanjoSalguero&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 
+<br>
+
+---
+<div align="center">
+<p>Thank you for visiting my account, please leave something in my guestbook :arrow_down_small: </p>
+ <a href="https://github.com/JuanjoSalguero/JuanjoSalguero/issues/2"><img width="200" src="https://img.cppng.com/download/2020-06/6-2-keyboard-png-file.png" alt="Guest book"></a>
+</div>
