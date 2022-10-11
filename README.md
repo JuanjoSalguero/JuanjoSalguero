@@ -44,9 +44,9 @@
 
 ### 📊 Github Stats
 
-[![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&theme=gotham)](https://github.com/juanjosalguero/github-readme-activity-graph)
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=blue-green" alt="juanjosalguero"/></p>
+
+[![Juanjo Salguero's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuanjoSalguero&theme=gotham)](https://github.com/juanjosalguero/github-readme-activity-graph)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosalguero&theme=blue-green&langs_count=10" alt="juanjosalguero"/>
