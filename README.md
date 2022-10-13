@@ -66,6 +66,6 @@
 
 ---
 <div align="center">
-<p>Thank you for visiting my account, please leave something in my guestbook :arrow_down_small: </p>
+<p>Thank you for visiting my account, please leave something in my guestbook :arrow_down: </p>
  <a href="https://github.com/JuanjoSalguero/JuanjoSalguero/issues/2"><img width="200" src="https://img.cppng.com/download/2020-06/6-2-keyboard-png-file.png" alt="Guest book"></a>
 </div>
