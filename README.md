@@ -12,13 +12,13 @@
 
 ### ⚡ About me:
 
-- 👨🏻‍💻 I’m **Juanjo Salguero**
+- 👨🏻‍💻 My name is **Juanjo Salguero**
 
 - 🌍 I live in **Marbella, Spain**
 
-- 🎓 I’m currently studying **DAM**
+- 🎓 I am currently studying **DAM**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I am currently learning **Android Studio**
 
 - 📫 How to reach me **juanjosalguero96@hotmail.com**
 
