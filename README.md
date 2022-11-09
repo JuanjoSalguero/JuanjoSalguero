@@ -42,7 +42,7 @@
 
 <br>
 
-### 📊 Github Stats
+### 📊 Github Stats:
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosalguero&theme=blue-green" alt="juanjosalguero"/></p>
 
