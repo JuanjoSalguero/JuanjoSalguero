@@ -18,7 +18,7 @@
 
 - 🎓 I am currently studying **DAM**
 
-- 🌱 I am currently learning **Android Studio, Unity and JavaFX**
+- 🌱 I am currently learning **Android Studio, Unity and Java**
 
 - 📫 How to reach me **juanjosalguero96@hotmail.com**
 
