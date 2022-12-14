@@ -18,8 +18,6 @@
 
 - 🎓 I am currently studying **DAM**
 
-- 🌱 I am currently learning **Android Studio**
-
 - 📫 How to reach me **juanjosalguero96@hotmail.com**
 
 <br>
