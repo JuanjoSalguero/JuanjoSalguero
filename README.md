@@ -18,7 +18,7 @@
 
 - 🎓 I am currently studying **DAM**
 
-- 📫 How to reach me **juanjosalguero96@hotmail.com**
+- 📫 How to reach me: **juanjosalguero96@hotmail.com**
 
 <br>
 
