@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/b6tk4qd.jpg)](https://juanjosalguero.io)
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my profile </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my profile! </h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EB2C&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Software+developer" alt="Typing SVG" /></a>
