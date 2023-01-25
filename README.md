@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/b6tk4qd.jpg)](https://juanjosalguero.io)
+[![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)](https://juanjosalguero.io)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my profile! </h1>
 
