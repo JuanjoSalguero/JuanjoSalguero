@@ -22,8 +22,9 @@
 ### 🌐 Conect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosalgueroacevedo/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://juanjosalguero.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/juanjosalguero_)
+[![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://juanjosalguero.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-eb4034?style=flat-square&logo=Gmail&logoColor=white)](https://instagram.com/juanjosalguero_)
 
 <br>
 
