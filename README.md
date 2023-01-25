@@ -1,7 +1,7 @@
 [![MasterHead](/imgs/github-header-image.png)](https://juanjosalguero.io)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8BC38&center=true&vCenter=true&width=460&lines=Mobile,+Web+and+Desktop+apps+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B95F17&center=true&vCenter=true&width=460&lines=Mobile,+Web+and+Desktop+apps+developer" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
