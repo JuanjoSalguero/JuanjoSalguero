@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: **juanjosalguero96@hotmail.com**
 
-<br><br>
+<br>
 
 <h3 align="center">🌐 Conect with me:</h3>
 <p align="center">
