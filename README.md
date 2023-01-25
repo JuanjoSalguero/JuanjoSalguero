@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8BC38&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Mobile,+Web+and+Desktop+apps" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjosalguero&label=Profile%20views&color=0e75b6&style=flat" alt="juanjosalguero" /> </p>
 
