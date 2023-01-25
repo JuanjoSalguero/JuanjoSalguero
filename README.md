@@ -60,6 +60,6 @@
 
 <h1> </h1>
 <div align="center">
-<p>Thank you for visiting my account, leave a message in my guestbook </p>
+<p>Thank you for visiting my account, you are invited to leave a message in my guestbook. </p>
  <a href="https://github.com/JuanjoSalguero/JuanjoSalguero/issues/2"><img width="100" src="https://www.uompgadmissions.com/images/Click-Here.gif" alt="Guest book"></a>
 </div>
