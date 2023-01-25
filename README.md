@@ -52,15 +52,6 @@
 
 <br>
 
-### 🏆 GitHub Profile Trophy:
-
-<br>
-
-<p align="center">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=JuanjoSalguero&margin-w=10&row=1&theme=darkhub&no-bg=true"/>
-</p>
-<br>
-
 ---
 <div align="center">
 <p>Thank you for visiting my account, leave a message in my guestbook :arrow_down: </p>
