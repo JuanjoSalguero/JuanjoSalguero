@@ -18,6 +18,8 @@
 
 - 🎓 I am currently studying **DAM**
 
+- 🌟 Some of my hobbies are **Music** and **Motorbikes**
+
 - 📫 How to reach me: **juanjosalguero96@hotmail.com**
 
 <br><br>
