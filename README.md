@@ -81,7 +81,6 @@
 <h3 align="center">🏆 Trophies:</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=juanjosalguero&theme=discord" alt="juanjosalguero" /></p>
 
-
 <h1> </h1>
 <div align="center">
 <p>Thank you for visiting my account, you are invited to leave a message in my guestbook. </p>
