@@ -82,5 +82,5 @@
 <h1> </h1>
 <div align="center">
 <p>Thank you for visiting my account, you are invited to leave a message in my guestbook. </p>
- <a href="https://github.com/JuanjoSalguero/JuanjoSalguero/issues/2"><img width="100" src="https://www.uompgadmissions.com/images/Click-Here.gif" alt="Guest book"></a>
+ <a href="https://github.com/JuanjoSalguero/JuanjoSalguero/issues/2"><img width="100" src="https://www.escamp.lk/wp-content/uploads/2021/02/click-here-gif-1.gif" alt="Guest book"></a>
 </div>
