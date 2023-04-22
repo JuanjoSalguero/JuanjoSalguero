@@ -15,7 +15,7 @@
 
 - 🌍 I live in **Marbella, Spain**
 
-- 🎓 I am currently studying **DAM**
+- 🏢 I am currently working as **RPA Developre - Internship** at **EY GDS MÁLAGA**
 
 - 🌟 Some of my hobbies are **Music** and **Motorbikes**
 
