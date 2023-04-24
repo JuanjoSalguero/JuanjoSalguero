@@ -2,7 +2,6 @@
   <img src="/imgs/github-header-image.png">
 </p>
 
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B95F17&center=true&vCenter=true&width=420&lines=Software+developer;Mobile,+Web+and+Desktop+apps" alt="Typing SVG" /></a>
 </p>
