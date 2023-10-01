@@ -16,7 +16,7 @@
 
 - 🏢 I am currently working as **RPA Developer** at **EY GDS MÁLAGA**
 
-- 🌟 Some of my hobbies are **Music** and **Motorbikes**
+- 🌟 Some of my hobbies are **Crossfit** and **Motorbikes**
 
 - 📫 How to reach me: **juanjosalguero96@hotmail.com**
 
