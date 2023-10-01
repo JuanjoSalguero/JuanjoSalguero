@@ -14,7 +14,7 @@
 
 - 🌍 I live in **Marbella, Spain**
 
-- 🏢 I am currently working as **RPA Developer - Internship** at **EY GDS MÁLAGA**
+- 🏢 I am currently working as **RPA Developer** at **EY GDS MÁLAGA**
 
 - 🌟 Some of my hobbies are **Music** and **Motorbikes**
 
