@@ -18,7 +18,7 @@
 
 - 🌟 Some of my hobbies are **Crossfit** and **Motorbikes**
 
-- 📫 How to reach me: **juanjosalguero96@hotmail.com**
+- 📫 How to reach me: **juanjosesalgueroacevedo@gmail.com**
 
 <br>
 
