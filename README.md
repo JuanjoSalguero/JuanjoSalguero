@@ -14,7 +14,7 @@
 
 - 🌍 I live in **Marbella, Spain**
 
-- 🏢 I am currently working as **RPA Developer** at **EY GDS MÁLAGA**
+- 🏢 I am currently working as **.Net Developer** at **AnyTech365**
 
 - 🌟 Some of my hobbies are **Crossfit** and **Motorbikes**
 
